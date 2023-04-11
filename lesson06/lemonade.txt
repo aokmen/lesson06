@@ -3,5 +3,3 @@ Limonata tarifi:
 1.Limon
 2.Su
 3.Nane
-4.Bal
-5.Buz
